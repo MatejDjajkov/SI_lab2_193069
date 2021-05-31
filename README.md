@@ -14,3 +14,6 @@ Control flow graph
 Со Multiple Condition правиме тестови на јазлите во кои што има одлучување (true и false).И преку следните тест случаи ги разгледувам можните комбинации од изразите.
 
 ![image](https://user-images.githubusercontent.com/82386734/120231458-bd5c1480-c251-11eb-8552-6bcef329adcb.png)
+ 
+ 
+Сите unit tests што ги напишав ги проверив преку Мultiple Condition.
