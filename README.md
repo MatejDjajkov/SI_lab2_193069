@@ -2,9 +2,10 @@
 Втора лабораториска вежба
 Control flow graph
 
-![image](https://user-images.githubusercontent.com/82386734/120226919-7b7aa080-c248-11eb-9ce8-1f4f874dc9c3.png)
-
+![image](https://user-images.githubusercontent.com/82386734/120227544-a6192900-c249-11eb-9e58-ea7625207647.png)
 
 Цикломатска комплексност
 
-Според 
+Според формулата за цикломатска комплексност, таа е 8.
+(A-B+2), каде што A е бројот на ребра, а B е бројот на темиња.
+(25-19+2)=8
